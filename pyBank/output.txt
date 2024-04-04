@@ -1,8 +1,0 @@
-Read out
-=====================
-Jack received 100 total points over 5 games with an average of 20.0 points per game.
-=====================
-Jill received 140 total points over 5 games with an average of 28.0 points per game.
-=====================
-Edward received 10 total points over 1 games with an average of 10.0 points per game.
-=====================
