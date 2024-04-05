@@ -8,4 +8,4 @@ For this challenge, the data from the 'Resource' file, election_data.csv file wa
 ### Comments
 The code for each of these challenges were written so that it can be reused for similar scenarios.
 ### Notes
-Some code ideas were taken from tutoring sessions that made the understanding o python coding easier.
+Some code ideas were taken from tutoring sessions that made the understanding of python coding easier.
